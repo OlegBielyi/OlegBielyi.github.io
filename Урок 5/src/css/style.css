@@ -1,0 +1,46 @@
+
+.container {
+    background-color: antiquewhite;
+    /*    border:5px solid blue;*/
+}
+
+.name-seite {
+/*    margin-top: 100px;*/
+    padding: 25px;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900;
+    color: darkblue;
+    /*    border:5px solid blue;*/
+
+}
+
+
+
+.oglav p {
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: underline;
+    /*        border:5px solid blue;*/
+
+
+}
+
+.oglav h2 {
+    color: darkblue;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+.foto iframe {
+    border: none;
+    margin-top: 30px;
+}
+
+.two-section h2 {
+    text-transform: lowercase;
+    font-weight: 500;
+    padding: 15px;
+
+}
